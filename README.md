@@ -22,7 +22,7 @@
 ```
 
 ## Building
-- Run `gen_vs2022.bat` or `gen_vs2019.bat`
+- Run `gen_vs2022.bat`
 - Open `MeshWidgetExample.sln` and Compile/Run
 
 ## References
